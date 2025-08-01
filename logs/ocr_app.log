@@ -1,0 +1,1528 @@
+2025-06-09 15:33:01 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:33:01 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:33:01 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:33:01 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:33:01 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:33:01 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:33:01 [WARNING] ocr_app.main:312 - Environment variable GOOGLE_API_KEY: [NOT SET]
+2025-06-09 15:33:01 [CRITICAL] ocr_app.main:321 - Google API Key is missing! Set it as an environment variable: GOOGLE_API_KEY
+2025-06-09 15:35:02 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:35:02 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:35:02 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:35:02 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:35:02 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:35:02 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:35:02 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:35:02 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:35:02 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:35:02 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:35:02 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:35:24 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:35:24 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:35:24 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:35:24 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:35:24 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:35:24 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:35:24 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:35:24 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:35:24 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:35:24 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:35:24 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 15:35:24 [INFO] ocr_app.file_processing:1020 - Processing file: Logo.jpg (Size: 304088 bytes)
+2025-06-09 15:35:24 [INFO] ocr_app.file_processing:1030 - Processing image file: Logo.jpg
+2025-06-09 15:35:24 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_2wr5dha5_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_2wr5dha5', 'txt']
+2025-06-09 15:35:26 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'Logo.jpg'. Try another file.
+2025-06-09 15:35:26 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:35:41 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:35:41 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:35:41 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:35:41 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:35:41 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:35:41 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:35:41 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:35:41 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:35:41 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:35:41 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:35:41 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:35:41 [INFO] ocr_app.file_processing:1020 - Processing file: Logo.jpg (Size: 304088 bytes)
+2025-06-09 15:35:41 [INFO] ocr_app.file_processing:1030 - Processing image file: Logo.jpg
+2025-06-09 15:35:41 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_57_b89rr_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_57_b89rr', 'txt']
+2025-06-09 15:35:41 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'Logo.jpg'. Try another file.
+2025-06-09 15:35:41 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:35:41 [INFO] ocr_app.file_processing:1030 - Processing image file: Screenshot (27).png
+2025-06-09 15:35:41 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IHDR' 16 13
+2025-06-09 15:35:41 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'sRGB' 41 1
+2025-06-09 15:35:41 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'gAMA' 54 4
+2025-06-09 15:35:41 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IDAT' 70 65466
+2025-06-09 15:35:42 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_howyfkgn_input.PNG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_howyfkgn', 'txt']
+2025-06-09 15:35:42 [INFO] ocr_app.file_processing:1050 - File 'Screenshot (27).png' processed. Text extracted successfully.
+2025-06-09 15:35:42 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:35:47 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:35:47 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:35:47 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:35:47 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:35:47 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:35:47 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:35:47 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:35:47 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:35:47 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:35:47 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:35:47 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:35:47 [INFO] ocr_app.file_processing:1020 - Processing file: Logo.jpg (Size: 304088 bytes)
+2025-06-09 15:35:47 [INFO] ocr_app.file_processing:1030 - Processing image file: Logo.jpg
+2025-06-09 15:35:47 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_3wl851o__input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_3wl851o_', 'txt']
+2025-06-09 15:35:48 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'Logo.jpg'. Try another file.
+2025-06-09 15:35:48 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:35:48 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:35:48 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:36:06 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:36:06 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:36:06 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:36:06 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:36:06 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:36:06 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:36:06 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:36:06 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:36:06 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:36:06 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:36:06 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:36:06 [INFO] ocr_app.file_processing:1020 - Processing file: Logo.jpg (Size: 304088 bytes)
+2025-06-09 15:36:06 [INFO] ocr_app.file_processing:1030 - Processing image file: Logo.jpg
+2025-06-09 15:36:06 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_elpyf0hf_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_elpyf0hf', 'txt']
+2025-06-09 15:36:06 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'Logo.jpg'. Try another file.
+2025-06-09 15:36:06 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:36:06 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:36:06 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:36:06 [INFO] root:1125 - User prompt submitted: what is there in the selected document
+2025-06-09 15:36:06 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:36:06 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:36:06 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:36:06 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:36:06 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:36:06 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:36:06 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:36:06 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:36:06 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:36:06 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:36:06 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:36:06 [INFO] ocr_app.file_processing:1020 - Processing file: Logo.jpg (Size: 304088 bytes)
+2025-06-09 15:36:06 [INFO] ocr_app.file_processing:1030 - Processing image file: Logo.jpg
+2025-06-09 15:36:06 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_0_fjyv8r_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_0_fjyv8r', 'txt']
+2025-06-09 15:36:06 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'Logo.jpg'. Try another file.
+2025-06-09 15:36:06 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:36:06 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:36:06 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:36:06 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-09 15:36:06 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-09 15:36:11 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 5.14s
+2025-06-09 15:36:11 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:36:11 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:36:11 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:36:11 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:36:11 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:36:11 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:36:11 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:36:11 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:36:11 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:36:11 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:36:11 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:36:11 [INFO] ocr_app.file_processing:1020 - Processing file: Logo.jpg (Size: 304088 bytes)
+2025-06-09 15:36:11 [INFO] ocr_app.file_processing:1030 - Processing image file: Logo.jpg
+2025-06-09 15:36:11 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_66j759k5_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_66j759k5', 'txt']
+2025-06-09 15:36:12 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'Logo.jpg'. Try another file.
+2025-06-09 15:36:12 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:36:12 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:36:12 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:36:53 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:36:53 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:36:53 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:36:53 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:36:53 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:36:53 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:36:53 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:36:53 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:36:53 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:36:53 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:36:53 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:38:33 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:38:33 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:38:33 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:38:33 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:38:33 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:38:33 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:38:33 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:38:33 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:38:33 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:38:33 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:38:33 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:38:33 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:38:33 [INFO] ocr_app.file_processing:1030 - Processing image file: Screenshot (27).png
+2025-06-09 15:38:33 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IHDR' 16 13
+2025-06-09 15:38:33 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'sRGB' 41 1
+2025-06-09 15:38:33 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'gAMA' 54 4
+2025-06-09 15:38:33 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IDAT' 70 65466
+2025-06-09 15:38:33 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_nq6bpcuh_input.PNG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_nq6bpcuh', 'txt']
+2025-06-09 15:38:34 [INFO] ocr_app.file_processing:1050 - File 'Screenshot (27).png' processed. Text extracted successfully.
+2025-06-09 15:38:34 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:38:34 [INFO] ocr_app.file_processing:1030 - Processing image file: Screenshot (139).png
+2025-06-09 15:38:34 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IHDR' 16 13
+2025-06-09 15:38:34 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'sRGB' 41 1
+2025-06-09 15:38:34 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'gAMA' 54 4
+2025-06-09 15:38:34 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IDAT' 70 65466
+2025-06-09 15:38:34 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_cb8k_loc_input.PNG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_cb8k_loc', 'txt']
+2025-06-09 15:38:34 [INFO] ocr_app.file_processing:1050 - File 'Screenshot (139).png' processed. Text extracted successfully.
+2025-06-09 15:38:34 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:38:39 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:38:39 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:38:39 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:38:39 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:38:39 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:38:39 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:38:39 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:38:39 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:38:39 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:38:39 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:38:39 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:38:39 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:38:39 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:38:39 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:38:39 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:38:39 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:38:40 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:38:40 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:38:40 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:38:40 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:38:40 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:38:40 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:38:40 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:38:40 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:38:40 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:38:40 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:38:40 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:38:40 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:38:40 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:38:40 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:38:40 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:38:40 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:38:41 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:38:41 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:38:41 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:38:41 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:38:41 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:38:41 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:38:41 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:38:41 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:38:41 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:38:41 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:38:41 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:38:41 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:38:41 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:38:41 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:38:41 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:38:41 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:39:14 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:39:14 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:39:14 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:39:14 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:39:14 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:39:14 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:39:14 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:39:14 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:39:14 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:39:14 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:39:14 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:39:14 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:39:14 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:39:14 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:39:14 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:39:14 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:39:14 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:39:14 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:39:14 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:39:14 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:39:14 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:39:14 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:39:14 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:39:14 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:39:14 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:39:14 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:39:17 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:39:17 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:39:17 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:39:17 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:39:17 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:39:17 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:39:31 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:39:31 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:39:31 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:39:31 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:39:31 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:39:31 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:39:31 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:39:31 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:39:31 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:39:31 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:39:31 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:39:31 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:39:31 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:39:31 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:39:31 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:39:31 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:39:31 [INFO] root:1125 - User prompt submitted: Extract the key comparison metrics and the entities being compared, presenting the results in a table.
+2025-06-09 15:39:31 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:39:31 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:39:31 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:39:31 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:39:31 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:39:31 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:39:31 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:39:31 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:39:31 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:39:31 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:39:31 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:39:31 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:39:31 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:39:31 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:39:31 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:39:31 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:39:31 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-09 15:39:31 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-09 15:39:37 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 5.98s
+2025-06-09 15:39:37 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:39:37 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:39:37 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:39:37 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:39:37 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:39:37 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:39:37 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:39:37 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:39:37 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:39:37 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:39:37 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-09 15:39:37 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:39:37 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:39:37 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (139).png (Size: 671260 bytes)
+2025-06-09 15:39:37 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (139).png already processed, skipping
+2025-06-09 15:39:37 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:40:49 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:40:49 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:40:49 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:40:49 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:40:49 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:40:49 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:40:49 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:40:49 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:40:49 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:40:49 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:40:49 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:50:43 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:50:43 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:50:43 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:50:43 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:50:43 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:50:43 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:50:43 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:50:43 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:50:43 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:50:43 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:50:43 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:52:42 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:52:42 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:52:42 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:52:42 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:52:42 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:52:42 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:52:42 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:52:42 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:52:42 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:52:42 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:52:42 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 15:52:42 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:52:42 [INFO] ocr_app.file_processing:1030 - Processing image file: Screenshot (27).png
+2025-06-09 15:52:42 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IHDR' 16 13
+2025-06-09 15:52:42 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'sRGB' 41 1
+2025-06-09 15:52:42 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'gAMA' 54 4
+2025-06-09 15:52:42 [DEBUG] PIL.PngImagePlugin:198 - STREAM b'IDAT' 70 65466
+2025-06-09 15:52:42 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_6yrcuyrc_input.PNG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_6yrcuyrc', 'txt']
+2025-06-09 15:52:43 [INFO] ocr_app.file_processing:1050 - File 'Screenshot (27).png' processed. Text extracted successfully.
+2025-06-09 15:52:43 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:53:28 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:53:28 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:53:28 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:53:28 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:53:28 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:53:28 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:53:28 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:53:28 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:53:28 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:53:28 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:53:28 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 15:53:28 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:53:28 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:53:28 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:53:29 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:53:29 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:53:29 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:53:29 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:53:29 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:53:29 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:53:29 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:53:29 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:53:29 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:53:29 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:53:29 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 15:53:29 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:53:29 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:53:29 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 15:53:33 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 15:53:33 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 15:53:33 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 15:53:33 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 15:53:34 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 15:53:34 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 15:53:34 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 15:53:34 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 15:53:34 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 15:53:34 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 15:53:34 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 15:53:34 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 15:53:34 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 15:53:34 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 16:02:01 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 16:02:01 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 16:02:01 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 16:02:01 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 16:02:01 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 16:02:01 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 16:02:01 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 16:02:01 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 16:02:01 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 16:02:01 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 16:02:01 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 16:02:01 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 16:02:01 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 16:02:01 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 16:02:01 [INFO] root:1125 - User prompt submitted: what is there in this file
+2025-06-09 16:02:01 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 16:02:01 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 16:02:01 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 16:02:01 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 16:02:01 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 16:02:01 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 16:02:01 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 16:02:01 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 16:02:01 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 16:02:01 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 16:02:01 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 16:02:01 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 16:02:01 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 16:02:01 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-09 16:02:01 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-09 16:02:01 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-09 16:02:05 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 4.09s
+2025-06-09 16:02:05 [INFO] ocr_app.main:178 - ==================================================
+2025-06-09 16:02:05 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-09 16:02:05 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-09 16:02:05 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-09 16:02:05 [INFO] ocr_app.main:182 - ==================================================
+2025-06-09 16:02:05 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-09 16:02:05 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-09 16:02:05 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-09 16:02:05 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-09 16:02:05 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-09 16:02:05 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-09 16:02:05 [INFO] ocr_app.file_processing:1020 - Processing file: Screenshot (27).png (Size: 798436 bytes)
+2025-06-09 16:02:05 [DEBUG] ocr_app.file_processing:1023 - File Screenshot (27).png already processed, skipping
+2025-06-09 16:02:05 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:46:16 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:46:16 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:46:16 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:46:16 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:46:16 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:46:17 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:46:17 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:46:17 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:46:17 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:46:17 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:46:17 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:50:23 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:50:23 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:50:23 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:50:23 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:50:23 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:50:23 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:50:23 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:50:23 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:50:23 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:50:23 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:50:23 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:50:23 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:50:23 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:50:23 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:50:24 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_frqw1vrg_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_frqw1vrg', 'txt']
+2025-06-15 18:50:25 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:50:25 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:50:39 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:50:39 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:50:39 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:50:39 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:50:39 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:50:39 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:50:39 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:50:39 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:50:39 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:50:39 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:50:39 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:50:39 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:50:39 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:50:39 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:50:39 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_d81odcik_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_d81odcik', 'txt']
+2025-06-15 18:50:40 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:50:40 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:50:40 [INFO] ocr_app.file_processing:1039 - Processing Word document: Teachers 2025.docx
+2025-06-15 18:50:40 [INFO] ocr_app.performance:136 - Starting __main__.extract_text_from_docx
+2025-06-15 18:50:40 [INFO] ocr_app.file_processing:430 - Started processing Word document: Teachers 2025.docx
+2025-06-15 18:50:40 [INFO] ocr_app.file_processing:439 - Extracted 2 paragraphs from Word document
+2025-06-15 18:50:40 [INFO] ocr_app.performance:140 - Completed __main__.extract_text_from_docx in 0.02s
+2025-06-15 18:50:40 [INFO] ocr_app.file_processing:1050 - File 'Teachers 2025.docx' processed. Text extracted successfully.
+2025-06-15 18:50:40 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:50:43 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:50:43 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:50:43 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:50:43 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:50:43 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:50:43 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:50:43 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:50:43 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:50:43 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:50:43 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:50:43 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:50:43 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:50:43 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:50:43 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:50:43 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_61nbfwtf_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_61nbfwtf', 'txt']
+2025-06-15 18:50:44 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:50:44 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:50:44 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:50:44 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:50:52 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:50:52 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:50:52 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:50:52 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:50:52 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:50:52 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:50:52 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:50:52 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:50:52 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:50:52 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:50:52 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:50:52 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:50:52 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:50:52 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:50:53 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_lgiur_hy_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_lgiur_hy', 'txt']
+2025-06-15 18:50:53 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:50:53 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:50:53 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:50:53 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:50:53 [INFO] root:1125 - User prompt submitted: what is this document about
+2025-06-15 18:50:53 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:50:53 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:50:53 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:50:53 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:50:53 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:50:53 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:50:54 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:50:54 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:50:54 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:50:54 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:50:54 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:50:54 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:50:54 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:50:54 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:50:54 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_9gq7yxvv_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_9gq7yxvv', 'txt']
+2025-06-15 18:50:55 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:50:55 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:50:55 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:50:55 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:50:55 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-15 18:50:55 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-15 18:50:58 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 2.91s
+2025-06-15 18:50:58 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:50:58 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:50:58 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:50:58 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:50:58 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:50:58 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:50:58 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:50:58 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:50:58 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:50:58 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:50:58 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:50:58 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:50:58 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:50:58 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:50:58 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_8h_j3k9g_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_8h_j3k9g', 'txt']
+2025-06-15 18:50:59 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:50:59 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:50:59 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:50:59 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:51:34 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:51:34 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:51:34 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:51:34 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:51:34 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:51:34 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:51:34 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:51:34 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:51:34 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:51:34 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:51:34 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:51:34 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:51:34 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:51:34 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:51:34 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_uzkfem59_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_uzkfem59', 'txt']
+2025-06-15 18:51:35 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:51:35 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:51:35 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:51:35 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:51:35 [INFO] root:1125 - User prompt submitted: can you provide all the document present in this file?
+2025-06-15 18:51:35 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:51:35 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:51:35 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:51:35 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:51:35 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:51:35 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:51:35 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:51:35 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:51:35 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:51:35 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:51:35 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:51:35 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:51:35 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:51:35 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:51:35 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_kljrj1ew_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_kljrj1ew', 'txt']
+2025-06-15 18:51:36 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:51:36 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:51:36 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:51:36 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:51:36 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-15 18:51:36 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-15 18:51:39 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 3.38s
+2025-06-15 18:51:39 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:51:39 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:51:39 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:51:39 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:51:39 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:51:39 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:51:39 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:51:39 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:51:39 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:51:39 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:51:39 [INFO] ocr_app.ui:1014 - Processing 2 uploaded files
+2025-06-15 18:51:39 [INFO] ocr_app.file_processing:1020 - Processing file: girls-are-having-a-lunch-vector.jpg (Size: 1887242 bytes)
+2025-06-15 18:51:39 [INFO] ocr_app.file_processing:1030 - Processing image file: girls-are-having-a-lunch-vector.jpg
+2025-06-15 18:51:39 [DEBUG] PIL.TiffImagePlugin:941 - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-15 18:51:40 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_83k8fv_h_input.JPEG', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_83k8fv_h', 'txt']
+2025-06-15 18:51:41 [WARNING] ocr_app.file_processing:1057 - No readable text found in 'girls-are-having-a-lunch-vector.jpg'. Try another file.
+2025-06-15 18:51:41 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:51:41 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:51:41 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:51:44 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:51:44 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:51:44 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:51:44 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:51:44 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:51:44 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:51:44 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:51:44 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:51:44 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:51:44 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:51:44 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:51:44 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:51:44 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:51:44 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:51:57 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:51:57 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:51:57 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:51:57 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:51:57 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:51:57 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:51:57 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:51:57 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:51:57 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:51:57 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:51:57 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:51:57 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:51:57 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:51:57 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:51:57 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:51:57 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:52:22 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:52:22 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:52:22 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:52:22 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:52:22 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:52:22 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:52:22 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:52:22 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:52:22 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:52:22 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:52:22 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:52:22 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:52:22 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:52:22 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:52:22 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:52:22 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:52:22 [INFO] root:1125 - User prompt submitted: provide summary of this document
+2025-06-15 18:52:22 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:52:22 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:52:22 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:52:22 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:52:22 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:52:22 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:52:22 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:52:22 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:52:22 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:52:22 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:52:22 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:52:22 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:52:22 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:52:22 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:52:22 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:52:22 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:52:22 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-15 18:52:22 [INFO] ocr_app.gemini_api:278 - Using Local Ollama model: gemma3:4b
+2025-06-15 18:52:22 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:53:06 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "POST /api/generate HTTP/1.1" 200 None
+2025-06-15 18:53:06 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 44.26s
+2025-06-15 18:53:07 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:53:07 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:53:07 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:53:07 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:53:07 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:53:07 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:53:07 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:53:07 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:53:07 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:53:07 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:53:07 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:53:07 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:53:07 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:53:07 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:53:07 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:53:07 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:54:34 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:54:34 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:54:34 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:54:34 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:54:34 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:54:34 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:54:34 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:54:34 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:54:34 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:54:34 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:54:34 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:54:34 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:54:34 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:54:34 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:54:34 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:54:34 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:54:38 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:54:38 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:54:38 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:54:38 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:54:38 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:54:38 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:54:38 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:54:38 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:54:38 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:54:38 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:54:38 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:54:38 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:54:38 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 18:54:38 [INFO] ocr_app.file_processing:1020 - Processing file: Teachers 2025.docx (Size: 17190 bytes)
+2025-06-15 18:54:38 [DEBUG] ocr_app.file_processing:1023 - File Teachers 2025.docx already processed, skipping
+2025-06-15 18:54:38 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:54:41 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:54:41 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:54:41 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:54:41 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:54:41 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:54:41 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:54:41 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:54:41 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:54:41 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:54:41 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:54:41 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:54:41 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:54:41 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:54:43 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:54:43 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:54:43 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:54:43 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:54:43 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:54:43 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-06-15 18:54:43 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-15 18:54:43 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:54:43 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:54:43 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:54:43 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:54:43 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:54:43 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 18:54:46 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 18:54:46 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 18:54:46 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 18:54:46 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 18:54:46 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 18:54:46 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 18:54:46 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 18:54:46 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 18:54:46 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 18:54:46 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 18:54:46 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:19:37 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:19:37 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:19:37 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:19:37 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:19:37 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:19:38 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:19:38 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:19:38 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:19:38 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:19:38 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:19:38 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:21:51 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:21:51 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:21:51 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:21:51 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:21:51 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:21:51 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:21:51 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:21:51 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:21:51 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:21:51 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:21:51 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:21:51 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:21:51 [INFO] ocr_app.file_processing:1033 - Processing PDF file: Subjects.pdf
+2025-06-15 19:21:53 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_27uoelh7_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_27uoelh7', 'txt']
+2025-06-15 19:21:54 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_zjubblpc_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_zjubblpc', 'txt']
+2025-06-15 19:21:55 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_gqjj61wh_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_gqjj61wh', 'txt']
+2025-06-15 19:21:56 [INFO] ocr_app.file_processing:1050 - File 'Subjects.pdf' processed. Text extracted successfully.
+2025-06-15 19:21:56 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:22:21 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:22:21 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:22:21 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:22:21 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:22:21 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:22:21 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:22:21 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:22:21 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:22:21 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:22:21 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:22:21 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:22:21 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:22:21 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:22:21 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:22:21 [INFO] root:1125 - User prompt submitted: What is this pdf?
+2025-06-15 19:22:21 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:22:21 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:22:21 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:22:21 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:22:21 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:22:21 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:22:21 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:22:21 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:22:21 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:22:21 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:22:21 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:22:21 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:22:21 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:22:21 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:22:21 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:22:21 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:22:21 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:22:21 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:22:21 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:22:21 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:22:21 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:22:21 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:22:21 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:22:21 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:22:21 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:22:21 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:22:21 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:22:21 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:22:29 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:22:29 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:22:29 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:22:29 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:22:29 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:22:29 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:22:29 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:22:29 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:22:29 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:22:29 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:22:29 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:22:29 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:22:29 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:22:29 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:22:39 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:22:39 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:22:39 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:22:39 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:22:39 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:22:39 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:22:39 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:22:39 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:22:39 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:22:39 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:22:39 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:22:39 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:22:39 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:22:39 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:22:39 [INFO] root:1125 - User prompt submitted: What is this pdf
+2025-06-15 19:22:39 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:22:39 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:22:39 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:22:39 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:22:39 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:22:39 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:22:39 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:22:39 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:22:39 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:22:39 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:22:39 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:22:39 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:22:39 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:22:39 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:22:39 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-15 19:22:39 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-15 19:22:46 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 6.66s
+2025-06-15 19:22:46 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:22:46 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:22:46 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:22:46 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:22:46 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:22:46 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:22:46 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:22:46 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:22:46 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:22:46 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:22:46 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:22:46 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:22:46 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:22:46 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:23:22 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:23:22 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:23:22 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:23:22 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:23:22 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:23:22 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:23:22 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:23:22 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:23:22 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:23:22 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:23:22 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:23:22 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:23:22 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:23:22 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:23:22 [INFO] root:1125 - User prompt submitted: How can i do the research methodology?
+2025-06-15 19:23:22 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:23:22 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:23:22 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:23:22 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:23:22 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:23:22 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:23:22 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:23:22 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:23:22 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:23:22 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:23:22 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:23:22 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:23:22 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:23:22 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-15 19:23:22 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-15 19:23:22 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-15 19:23:33 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 11.19s
+2025-06-15 19:23:34 [INFO] ocr_app.main:178 - ==================================================
+2025-06-15 19:23:34 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-15 19:23:34 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-15 19:23:34 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-15 19:23:34 [INFO] ocr_app.main:182 - ==================================================
+2025-06-15 19:23:34 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-15 19:23:34 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-15 19:23:34 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-15 19:23:34 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-15 19:23:34 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-15 19:23:34 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-15 19:23:34 [INFO] ocr_app.file_processing:1020 - Processing file: Subjects.pdf (Size: 217045 bytes)
+2025-06-15 19:23:34 [DEBUG] ocr_app.file_processing:1023 - File Subjects.pdf already processed, skipping
+2025-06-15 19:23:34 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:52:13 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:52:13 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:52:13 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:52:13 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:52:13 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:52:13 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:52:13 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:52:13 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:52:13 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:52:13 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:52:13 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:53:37 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:53:37 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:53:37 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:53:37 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:53:37 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:53:37 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:53:37 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:53:37 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:53:37 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:53:37 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:53:37 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:53:37 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:53:37 [INFO] ocr_app.file_processing:1033 - Processing PDF file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf
+2025-06-30 09:53:39 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_c8ndpsos_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_c8ndpsos', 'txt']
+2025-06-30 09:53:43 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_31f3xs5p_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_31f3xs5p', 'txt']
+2025-06-30 09:53:45 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_gmq0ti_7_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_gmq0ti_7', 'txt']
+2025-06-30 09:53:48 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_flfqrkzf_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_flfqrkzf', 'txt']
+2025-06-30 09:53:51 [INFO] ocr_app.file_processing:1050 - File 'Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf' processed. Text extracted successfully.
+2025-06-30 09:53:51 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:01 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:01 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:01 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:01 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:01 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:01 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:01 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:01 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:01 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:02 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:02 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:02 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:02 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:02 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:13 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:13 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:13 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:13 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:13 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:13 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:13 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:13 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:13 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:13 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:13 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:13 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:13 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:13 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:13 [INFO] root:1125 - User prompt submitted: What is this file about?
+2025-06-30 09:54:13 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:13 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:13 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:13 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:13 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:13 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:13 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:13 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:13 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:13 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:13 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:13 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:13 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:13 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:13 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:13 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:13 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:13 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:13 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:13 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:13 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:13 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:13 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:13 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:13 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:13 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:13 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:13 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:24 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:24 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:24 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:24 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:24 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:24 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:24 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:24 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:24 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:24 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:24 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:24 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:24 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:24 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:36 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:36 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:36 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:36 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:36 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:36 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:36 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:36 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:36 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:36 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:36 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:36 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:36 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:36 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:36 [INFO] root:1125 - User prompt submitted: What is this file about?
+2025-06-30 09:54:36 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:36 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:36 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:36 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:36 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:36 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:36 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:36 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:36 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:36 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:36 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:36 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:36 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:36 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:36 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-30 09:54:36 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-30 09:54:41 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:41 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:41 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:41 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:41 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:41 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:41 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:41 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:41 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:41 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:42 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:42 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:42 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:42 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 09:54:42 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-30 09:54:42 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-30 09:54:42 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 6.76s
+2025-06-30 09:54:49 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 7.46s
+2025-06-30 09:54:49 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 09:54:49 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 09:54:49 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 09:54:49 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 09:54:49 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 09:54:49 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 09:54:49 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 09:54:49 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 09:54:49 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 09:54:49 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 09:54:49 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 09:54:49 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-06-30 09:54:49 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-06-30 09:54:49 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 10:54:06 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 10:54:06 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 10:54:06 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 10:54:06 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 10:54:06 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 10:54:06 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 10:54:06 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 10:54:06 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 10:54:06 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 10:54:06 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 10:54:06 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 10:54:07 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 10:54:07 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 10:54:07 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 10:54:07 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 10:54:07 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 10:54:07 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 10:54:07 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 10:54:07 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 10:54:07 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 10:54:07 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 10:54:07 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 10:54:09 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 10:54:09 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 10:54:09 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 10:54:09 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 10:54:09 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 10:54:09 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 10:54:09 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 10:54:09 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 10:54:09 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 10:54:09 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 10:54:09 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:06:49 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:06:49 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:06:49 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:06:49 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:06:49 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:06:50 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:06:50 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:06:50 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:06:50 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:06:50 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:06:50 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:07:04 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:07:04 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:07:04 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:07:04 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:07:04 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:07:04 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:07:04 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:07:04 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:07:04 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:07:04 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:07:04 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:07:04 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:07:04 [INFO] ocr_app.file_processing:1039 - Processing Word document: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx
+2025-06-30 22:07:04 [INFO] ocr_app.performance:136 - Starting __main__.extract_text_from_docx
+2025-06-30 22:07:04 [INFO] ocr_app.file_processing:430 - Started processing Word document: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx
+2025-06-30 22:07:04 [INFO] ocr_app.file_processing:439 - Extracted 13 paragraphs from Word document
+2025-06-30 22:07:04 [INFO] ocr_app.performance:140 - Completed __main__.extract_text_from_docx in 0.16s
+2025-06-30 22:07:04 [INFO] ocr_app.file_processing:1050 - File 'AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx' processed. Text extracted successfully.
+2025-06-30 22:07:04 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:07:07 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:07:07 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:07:07 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:07:07 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:07:07 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:07:07 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:07:07 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:07:07 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:07:07 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:07:07 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:07:07 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:07:07 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:07:07 [DEBUG] ocr_app.file_processing:1023 - File AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx already processed, skipping
+2025-06-30 22:07:07 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:07:16 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:07:17 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:07:17 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:07:17 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:07:17 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:07:17 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:07:17 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:07:17 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:07:17 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:07:17 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:07:17 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:07:17 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:07:17 [DEBUG] ocr_app.file_processing:1023 - File AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx already processed, skipping
+2025-06-30 22:07:17 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:07:17 [INFO] root:1125 - User prompt submitted: what is there in this?
+2025-06-30 22:07:17 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:07:17 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:07:17 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:07:17 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:07:17 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:07:17 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:07:17 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:07:17 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:07:17 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:07:17 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:07:17 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:07:17 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:07:17 [DEBUG] ocr_app.file_processing:1023 - File AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx already processed, skipping
+2025-06-30 22:07:17 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:07:17 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-30 22:07:17 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-06-30 22:07:22 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 4.87s
+2025-06-30 22:07:22 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:07:22 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:07:22 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:07:22 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:07:22 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:07:22 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:07:22 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:07:22 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:07:22 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:07:22 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:07:22 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:07:22 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:07:22 [DEBUG] ocr_app.file_processing:1023 - File AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx already processed, skipping
+2025-06-30 22:07:22 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:07:39 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:07:39 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:07:39 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:07:39 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:07:39 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:07:39 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.7:11434
+2025-06-30 22:07:39 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.7:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-30 22:07:39 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:07:39 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:07:39 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:07:39 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:07:39 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:07:39 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:07:39 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:07:39 [DEBUG] ocr_app.file_processing:1023 - File AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx already processed, skipping
+2025-06-30 22:07:39 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:08:01 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:08:01 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:08:01 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:08:01 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:08:01 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:08:01 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.7:11434
+2025-06-30 22:08:01 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.7:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-30 22:08:01 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:08:01 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:08:01 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:08:01 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:08:01 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:08:01 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:08:01 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:08:01 [DEBUG] ocr_app.file_processing:1023 - File AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx already processed, skipping
+2025-06-30 22:08:01 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:08:01 [INFO] root:1125 - User prompt submitted: extract everything present in this document
+2025-06-30 22:08:01 [INFO] ocr_app.main:178 - ==================================================
+2025-06-30 22:08:01 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-06-30 22:08:01 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-06-30 22:08:01 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-06-30 22:08:01 [INFO] ocr_app.main:182 - ==================================================
+2025-06-30 22:08:01 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.7:11434
+2025-06-30 22:08:01 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.7:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-06-30 22:08:01 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-06-30 22:08:01 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-06-30 22:08:01 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-06-30 22:08:01 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-06-30 22:08:01 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-06-30 22:08:01 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-06-30 22:08:01 [INFO] ocr_app.file_processing:1020 - Processing file: AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx (Size: 29945 bytes)
+2025-06-30 22:08:01 [DEBUG] ocr_app.file_processing:1023 - File AL HIRA ENGLISH MEDIUM SCHOOL HARIHAR.docx already processed, skipping
+2025-06-30 22:08:01 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-06-30 22:08:01 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-06-30 22:08:01 [INFO] ocr_app.gemini_api:278 - Using Local Ollama model: gemma3:4b
+2025-06-30 22:08:01 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.7:11434
+2025-06-30 22:13:39 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.7:11434 "POST /api/generate HTTP/1.1" 200 None
+2025-06-30 22:13:39 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 337.86s
+2025-07-03 21:26:20 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:26:20 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:26:20 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:26:20 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:26:20 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:26:20 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:26:20 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:26:20 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:26:20 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:26:20 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:26:20 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:26:26 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:26:26 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:26:26 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:26:26 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:26:26 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:26:26 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.7:11434
+2025-07-03 21:26:47 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:26:47 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:26:47 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:26:47 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:26:47 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:26:47 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:44:07 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:44:07 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:44:07 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:44:07 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:44:07 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:44:07 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:44:07 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:44:07 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:44:07 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:44:07 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:44:07 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:44:35 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:44:35 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:44:35 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:44:35 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:44:35 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:44:35 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:44:35 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:44:35 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:44:35 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:44:35 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:44:35 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:44:35 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:44:35 [INFO] ocr_app.file_processing:1033 - Processing PDF file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf
+2025-07-03 21:44:36 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_p7_nc5b4_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_p7_nc5b4', 'txt']
+2025-07-03 21:44:38 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_9u_db5fc_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_9u_db5fc', 'txt']
+2025-07-03 21:44:41 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_eiy79zin_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_eiy79zin', 'txt']
+2025-07-03 21:44:42 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_xomennit_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_xomennit', 'txt']
+2025-07-03 21:44:44 [INFO] ocr_app.file_processing:1050 - File 'Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf' processed. Text extracted successfully.
+2025-07-03 21:44:44 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:44:59 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:44:59 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:44:59 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:44:59 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:44:59 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:44:59 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:44:59 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:44:59 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:44:59 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:44:59 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:44:59 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:44:59 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:44:59 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 21:44:59 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:45:12 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:45:12 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:45:12 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:45:12 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:45:12 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:45:12 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:45:12 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:45:12 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:45:12 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:45:12 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:45:12 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:45:12 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:45:12 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 21:45:12 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:45:12 [INFO] root:1125 - User prompt submitted: what is this dicument?
+2025-07-03 21:45:12 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:45:12 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:45:12 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:45:12 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:45:12 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:45:12 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:45:12 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:45:12 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:45:12 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:45:12 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:45:12 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:45:12 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:45:12 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 21:45:12 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:45:12 [INFO] ocr_app.performance:136 - Starting __main__.generate_chat_response
+2025-07-03 21:45:12 [INFO] ocr_app.gemini_api:291 - Using Gemini API
+2025-07-03 21:45:19 [INFO] ocr_app.performance:140 - Completed __main__.generate_chat_response in 6.79s
+2025-07-03 21:45:19 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:45:19 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:45:19 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:45:19 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:45:19 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:45:19 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:45:19 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:45:19 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:45:19 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:45:19 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:45:19 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:45:19 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:45:19 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 21:45:19 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:47:03 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:47:03 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:47:03 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:47:03 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:47:03 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:47:03 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:47:03 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:47:03 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:47:03 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:47:03 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:47:03 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:47:03 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:47:03 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 21:47:03 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:47:05 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:47:05 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:47:05 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:47:05 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:47:05 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:47:05 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:47:05 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:47:05 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:47:05 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:47:05 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:47:05 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:47:05 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:47:05 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 21:47:05 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 21:47:06 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 21:47:06 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 21:47:06 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 21:47:06 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 21:47:06 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 21:47:06 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 21:47:06 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 21:47:06 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 21:47:06 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 21:47:06 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 21:47:06 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 21:47:06 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 21:47:06 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 21:47:06 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 22:08:43 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 22:08:43 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 22:08:43 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 22:08:43 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 22:08:43 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 22:08:43 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 22:08:43 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 22:08:43 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 22:08:43 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 22:08:43 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 22:08:43 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 22:09:08 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 22:09:08 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 22:09:08 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 22:09:08 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 22:09:08 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 22:09:09 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 22:09:09 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 22:09:09 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 22:09:09 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 22:09:09 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 22:09:09 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 22:09:11 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 22:09:11 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 22:09:11 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 22:09:11 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 22:09:11 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 22:09:11 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-07-03 22:09:11 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-07-03 22:09:11 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 22:09:11 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 22:09:11 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 22:09:11 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 22:09:11 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 22:09:11 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 22:09:30 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 22:09:30 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 22:09:30 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 22:09:30 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 22:09:30 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 22:09:30 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-07-03 22:09:30 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-07-03 22:09:30 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 22:09:30 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 22:09:30 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 22:09:30 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 22:09:30 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 22:09:30 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 22:09:30 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 22:09:30 [INFO] ocr_app.file_processing:1033 - Processing PDF file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf
+2025-07-03 22:09:31 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_lsr3bw5a_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_lsr3bw5a', 'txt']
+2025-07-03 22:09:34 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_3wvqr0tp_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_3wvqr0tp', 'txt']
+2025-07-03 22:09:36 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_tni11by1_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_tni11by1', 'txt']
+2025-07-03 22:09:38 [DEBUG] pytesseract:272 - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_rwq8kzn5_input.PPM', 'C:\\Users\\user\\AppData\\Local\\Temp\\tess_rwq8kzn5', 'txt']
+2025-07-03 22:09:40 [INFO] ocr_app.file_processing:1050 - File 'Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf' processed. Text extracted successfully.
+2025-07-03 22:09:40 [INFO] ocr_app.main:1091 - Application UI setup completed
+2025-07-03 22:12:30 [INFO] ocr_app.main:178 - ==================================================
+2025-07-03 22:12:30 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
+2025-07-03 22:12:30 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+2025-07-03 22:12:30 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
+2025-07-03 22:12:30 [INFO] ocr_app.main:182 - ==================================================
+2025-07-03 22:12:30 [DEBUG] urllib3.connectionpool:241 - Starting new HTTP connection (1): 192.168.1.6:11434
+2025-07-03 22:12:30 [DEBUG] urllib3.connectionpool:544 - http://192.168.1.6:11434 "GET /api/tags HTTP/1.1" 200 337
+2025-07-03 22:12:30 [INFO] ocr_app.main:304 - Environment variables loaded successfully
+2025-07-03 22:12:30 [INFO] ocr_app.main:310 - Environment variable GOOGLE_API_KEY: [SET]
+2025-07-03 22:12:30 [INFO] ocr_app.gemini_api:327 - Gemini API configured successfully
+2025-07-03 22:12:30 [INFO] ocr_app.main:358 - Tesseract OCR path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-07-03 22:12:30 [INFO] ocr_app.main:384 - Session state variables initialized successfully
+2025-07-03 22:12:30 [INFO] ocr_app.ui:1014 - Processing 1 uploaded files
+2025-07-03 22:12:30 [INFO] ocr_app.file_processing:1020 - Processing file: Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf (Size: 4576661 bytes)
+2025-07-03 22:12:30 [DEBUG] ocr_app.file_processing:1023 - File Automated_Detection_of_Biases_within_the_Healthcare_System_Using_Clustering_and_Logistic_Regression[1].pdf already processed, skipping
+2025-07-03 22:12:30 [INFO] ocr_app.main:1091 - Application UI setup completed

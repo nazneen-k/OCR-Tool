@@ -1,0 +1,1 @@
+2025-06-09 15:33:01 [CRITICAL] ocr_app.main:321 - Google API Key is missing! Set it as an environment variable: GOOGLE_API_KEY

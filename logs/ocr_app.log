@@ -1,4 +1,4 @@
-2025-06-09 15:33:01 [INFO] ocr_app.main:178 - =================================================
+2025-06-09 15:33:01 [INFO] ocr_app.main:178 - ==================================================
 2025-06-09 15:33:01 [INFO] ocr_app.main:179 - OCR Multi-Document Application Starting
 2025-06-09 15:33:01 [INFO] ocr_app.main:180 - Python version: 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
 2025-06-09 15:33:01 [INFO] ocr_app.main:181 - Streamlit version: 1.44.1
